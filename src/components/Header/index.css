@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  background-color: #2c364c;
+}
+
+.header-ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.header-img {
+  width: 80px;
+}
+
+.header-ul-li {
+  margin-left: 15px;
+}
+
+.link-item {
+  text-decoration: none;
+  color: white;
+}

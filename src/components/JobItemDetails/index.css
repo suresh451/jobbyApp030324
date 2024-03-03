@@ -1,0 +1,49 @@
+.detailed-img {
+  width: 80px;
+  margin: 10px;
+}
+
+.detailed-img-title {
+  display: flex;
+}
+
+.detailed-location-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.detailed-location {
+  display: flex;
+}
+.emp-type {
+  padding-left: 5px;
+}
+
+.detailed-main-div {
+  color: white;
+  background-color: #202020;
+  padding: 20px;
+}
+
+.detailed-visit {
+  text-decoration: none;
+  color: white;
+}
+.detailed-visit-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detailed-ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.detailed-lifeatCom {
+  display: flex;
+}
+

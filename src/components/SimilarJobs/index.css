@@ -1,0 +1,11 @@
+.similar-img {
+  width: 80px;
+  margin: 8px;
+}
+
+.similar-list-item {
+  width: 400px;
+  padding: 10px;
+  border: 0.5px solid white;
+  border-radius: 10px;
+}
